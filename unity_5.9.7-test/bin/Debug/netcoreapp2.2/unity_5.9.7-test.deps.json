@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "1e9c9596047f012f7d0cb2e768bf54ac9d48d19c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "unity_5.9.7-test/1.0.0": {
+        "dependencies": {
+          "Unity": "5.9.7"
+        },
+        "runtime": {
+          "unity_5.9.7-test.dll": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.4.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        }
+      },
+      "Unity/5.9.7": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Unity.Abstractions.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.1.0.0"
+          },
+          "lib/netcoreapp2.0/Unity.Container.dll": {
+            "assemblyVersion": "5.9.7.0",
+            "fileVersion": "5.9.7.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "unity_5.9.7-test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hMkdWxksypQlFXB7JamQegDscxEAQO4FHd/lw/zlSZU9dZgAij65xjCrXer183wvoNAzJic5zzjj2oc9/dloWg==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    },
+    "Unity/5.9.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mAytlOJqpFsfPXgHejIWRigbunhDmBniSO/tSjvfRz9DTuOaTzqDdEbe/c4zJqSvhLLnsq7eDW6nTu1g76iASA==",
+      "path": "unity/5.9.7",
+      "hashPath": "unity.5.9.7.nupkg.sha512"
+    }
+  }
+}

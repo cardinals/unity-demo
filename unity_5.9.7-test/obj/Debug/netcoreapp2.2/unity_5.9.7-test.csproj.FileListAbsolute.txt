@@ -1,0 +1,11 @@
+E:\temp2\unity-test\unity_5.9.7-test\bin\Debug\netcoreapp2.2\unity_5.9.7-test.deps.json
+E:\temp2\unity-test\unity_5.9.7-test\bin\Debug\netcoreapp2.2\unity_5.9.7-test.runtimeconfig.json
+E:\temp2\unity-test\unity_5.9.7-test\bin\Debug\netcoreapp2.2\unity_5.9.7-test.runtimeconfig.dev.json
+E:\temp2\unity-test\unity_5.9.7-test\bin\Debug\netcoreapp2.2\unity_5.9.7-test.dll
+E:\temp2\unity-test\unity_5.9.7-test\bin\Debug\netcoreapp2.2\unity_5.9.7-test.pdb
+E:\temp2\unity-test\unity_5.9.7-test\obj\Debug\netcoreapp2.2\unity_5.9.7-test.csprojAssemblyReference.cache
+E:\temp2\unity-test\unity_5.9.7-test\obj\Debug\netcoreapp2.2\unity_5.9.7-test.csproj.CoreCompileInputs.cache
+E:\temp2\unity-test\unity_5.9.7-test\obj\Debug\netcoreapp2.2\unity_5.9.7-test.AssemblyInfoInputs.cache
+E:\temp2\unity-test\unity_5.9.7-test\obj\Debug\netcoreapp2.2\unity_5.9.7-test.AssemblyInfo.cs
+E:\temp2\unity-test\unity_5.9.7-test\obj\Debug\netcoreapp2.2\unity_5.9.7-test.dll
+E:\temp2\unity-test\unity_5.9.7-test\obj\Debug\netcoreapp2.2\unity_5.9.7-test.pdb
